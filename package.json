@@ -1,0 +1,24 @@
+{
+  "name": "api-asynchronous",
+  "version": "1.0.0",
+  "description": "Function to fetch data from an API asynchronously",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ice737230/API-asynchronous.git"
+  },
+  "dependencies": {
+    "doubletea-1": "1.0.0",
+    "minti_fulkerson": "0.1.4"
+  },
+
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ice737230/API-asynchronous/issues"
+  },
+  "homepage": "https://github.com/ice737230/API-asynchronous#readme"
+}
